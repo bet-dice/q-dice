@@ -9,4 +9,4 @@ App_id;
 
 
 Have Fun
-//Made by Bet-Dice
+//Made by Bet-Dice License MIT
